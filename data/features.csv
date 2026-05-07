@@ -1,0 +1,9 @@
+Feature,Impact,Effort,Confidence,Risk,Strategic_Alignment
+Improve onboarding flow,9,4,8,3,10
+Add admin dashboard,7,6,7,4,8
+Redesign navigation,8,5,6,5,9
+Improve search performance,9,7,7,6,9
+Add export to CSV,6,3,9,2,7
+Build notification center,7,8,6,5,8
+Improve mobile responsiveness,8,4,8,3,9
+Add audit log,9,6,8,4,10
